@@ -20,6 +20,21 @@ Everyone submits the beach (🏖️) or the plane (✈️). A cherry blossom is 
 python3 main.py   # writes /output/entry.txt
 ```
 
+## Badges
+
+The three badges at the top are live make.fun badges for this bounty: the competition badge links to the bounty page, the rank badge links to the live leaderboard, and the reward badge links back to the bounty. They update as the entry is graded and ranked, so this README always shows where the blossom stands.
+
+## How it was chosen
+
+Fifteen candidates were drafted and scored over three review rounds,
+with pairwise head-to-heads (the winner went 4–0). Everyone submits
+the beach (🏖️) or the plane (✈️); a cherry blossom is a whole trip in
+one glyph — Japan in spring, petals drifting over temple paths and
+picnic blankets, a season that lasts about two weeks a year. That
+built-in deadline is the point: it doesn't say "someday", it says
+*book the flight now or wait another year*. Beauty + a specific place
++ urgency to go, in a single character.
+
 ## License
 
 MIT
